@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f28dcc6503ed3083",
+        "id": "33567c645908b8af",
         "type": "tabs",
         "children": [
           {
-            "id": "27e61d08a9a14bb5",
+            "id": "e4406b06c905d46b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "work-documents/2026工作内容.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026工作内容"
             }
           }
         ]
@@ -79,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 357.2880744934082
+    "width": 322.50341796875
   },
   "right": {
     "id": "118cce29570472c6",
@@ -142,6 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "work-documents/2026工作内容.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -155,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.712890625,
-    "collapsed": true
+    "width": 324.200927734375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,10 +176,19 @@
       "notion-bases:Notion Bases": false
     }
   },
-  "active": "8a23344fb340aef6",
+  "active": "e4406b06c905d46b",
   "lastOpenFiles": [
+    "_database.md",
+    "Untitled.md",
+    "computer-science/README.md",
+    "work-documents/2026工作内容.md",
+    "computer-science/artificial-intelligence/datatools/numpy.md",
+    "computer-science/tools",
     "README.md",
-    "work-documents/2026.md",
+    "computer-science/artificial-intelligence/datatools",
+    "computer-science/artificial-intelligence",
+    "computer-science",
+    "test.py",
     "Untitled 3835.md",
     "Untitled 3834.md",
     "Untitled 3833.md",
@@ -196,10 +209,6 @@
     "Untitled 3818.md",
     "Untitled 3817.md",
     "Untitled 3816.md",
-    "Untitled 3815.md",
-    "Untitled 3814.md",
-    "Untitled 3813.md",
-    "Untitled 3812.md",
     "Documents Base.base",
     "Computer Science/Kubernetes/Kubernetes.canvas",
     "Base.base",
@@ -209,12 +218,7 @@
     "Untitled Diagram.svg",
     "Pasted image 20260401225937.png",
     "工作/2026工作内容.canvas",
-    "Computer Science/Untitled.base",
-    "Untitled",
     "Computer Science/Untitled.canvas",
-    "工作",
-    "项目",
-    "TODOLIST/2026",
     "Pasted image 20260520225225.png",
     "Computer Science/Operating System/Linux/进程的状态转换.svg",
     "Pasted image 20260424232648.png",
