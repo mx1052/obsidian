@@ -160,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.200927734375
+    "width": 311.594482421875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,7 +176,7 @@
       "notion-bases:Notion Bases": false
     }
   },
-  "active": "e4406b06c905d46b",
+  "active": "ecc0b34e2ad8909e",
   "lastOpenFiles": [
     "_database.md",
     "Untitled.md",
