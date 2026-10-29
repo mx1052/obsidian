@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33567c645908b8af",
+        "id": "8d90909978dd4fad",
         "type": "tabs",
         "children": [
           {
-            "id": "e4406b06c905d46b",
+            "id": "e00ef57825332c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work-documents/2026工作内容.md",
+                "file": "workingDocs/2026工作内容.md",
                 "mode": "source",
                 "source": false
               },
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "work-documents/2026工作内容.md",
+                "file": "computer-science/artificial-intelligence/datatools/numpy.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -177,18 +177,24 @@
       "notion-bases:Notion Bases": false
     }
   },
-  "active": "e4406b06c905d46b",
+  "active": "8a23344fb340aef6",
   "lastOpenFiles": [
-    "_database.md",
+    "compSci/ai/ml",
     "Untitled.md",
-    "computer-science/README.md",
-    "work-documents/2026工作内容.md",
-    "computer-science/artificial-intelligence/datatools/numpy.md",
-    "computer-science/tools",
+    "compSci/ai/math",
+    "compSci/ai/harness",
+    "learnEng",
+    "workingDocs/2026工作内容.md",
+    "compSci/README.md",
+    "compSci/tools/git.md",
+    "compSci/apps",
+    "compSci/ai/datatools/numpy.md",
+    "_database.md",
+    "compSci/tools",
     "README.md",
-    "computer-science/artificial-intelligence/datatools",
-    "computer-science/artificial-intelligence",
-    "computer-science",
+    "compSci/ai/datatools",
+    "compSci/ai",
+    "compSci",
     "test.py",
     "Untitled 3835.md",
     "Untitled 3834.md",
@@ -208,14 +214,8 @@
     "Untitled 3820.md",
     "Untitled 3819.md",
     "Untitled 3818.md",
-    "Untitled 3817.md",
-    "Untitled 3816.md",
     "Documents Base.base",
     "Computer Science/Kubernetes/Kubernetes.canvas",
-    "Base.base",
-    "Computer Science/Artificial Intelligence/datatools",
-    "工作/ZA工作内容.base",
-    "Excalidraw",
     "Untitled Diagram.svg",
     "Pasted image 20260401225937.png",
     "工作/2026工作内容.canvas",
