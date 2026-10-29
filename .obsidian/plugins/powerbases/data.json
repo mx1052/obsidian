@@ -1,0 +1,15 @@
+{
+  "valueColors": {},
+  "fields": {},
+  "formats": {},
+  "dateFormats": {},
+  "phoneFormats": {},
+  "kinds": {
+    "导出": "text"
+  },
+  "placeAutocomplete": true,
+  "basesFolder": "",
+  "myName": "",
+  "stampEdits": false,
+  "showNotifications": true
+}

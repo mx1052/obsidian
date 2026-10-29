@@ -1,0 +1,11 @@
+/* 限制预览区宽度 */
+.markdown-preview-view {
+  max-width: 700px;
+  margin: 0 auto; /* 居中显示 */
+}
+
+/* 限制编辑区宽度 */
+.cm-s-obsidian {
+  max-width: 700px;
+  margin: 0 auto;
+}
